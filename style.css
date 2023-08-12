@@ -44,3 +44,55 @@ body {
   background-color: #03a9f4;
   border-color: #03a9f4;
 }
+
+/*2 no section css*/
+
+.section-0 {
+  margin: 7%;
+}
+.section-b {
+  display: flex;
+  margin-top: 5%;
+}
+.titel-0 {
+  color: #f1615a;
+  text-align: center;
+}
+.div-b {
+  width: 50%;
+}
+
+.div-c {
+  width: 50%;
+}
+.image-b {
+  height: auto;
+  width: 80%;
+  margin-left: 15%;
+}
+.titel-a {
+  font-size: 45px;
+  color: rgb(0, 215, 104);
+}
+.titel-b {
+  font-size: 30px;
+  color: #03a9f4;
+}
+.name {
+  color: #f1615a;
+}
+.pragraph {
+  font-size: 20px;
+  color: rgb(255, 0, 162);
+  padding-top: 5%;
+}
+
+/*3 no section css*/
+
+.section-c {
+  margin: 7%;
+}
+.titel-c {
+  text-align: center;
+  color: #fb00ff;
+}

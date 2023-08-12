@@ -20,4 +20,38 @@
     padding: 5px 10px;
     border-radius: 4px;
   }
+
+  /*2 no section css*/
+
+  .section-0 {
+    margin: 4%;
+  }
+  .image-b {
+    height: auto;
+    width: 100%;
+    margin-left: 5%;
+  }
+  .titel-a {
+    font-size: 25px;
+
+    margin: 0%;
+  }
+  .titel-b {
+    font-size: 20px;
+
+    margin: 5% 0%;
+    margin-bottom: 0%;
+  }
+  .pragraph {
+    font-size: 12px;
+
+    padding-top: 5%;
+    margin: 0%;
+  }
+
+  /*3 no section css*/
+
+  .titel-c {
+    padding-top: 15%;
+  }
 }
